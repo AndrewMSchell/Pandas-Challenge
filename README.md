@@ -90,3 +90,5 @@ Repeat the above breakdown, but this time group schools based on a reasonable ap
 Scores by School Type
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+
+# Fun project! I think some of my labeling isn't entirely correct, but overall I feel confident that I completed this competently.
